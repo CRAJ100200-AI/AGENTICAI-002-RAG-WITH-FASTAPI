@@ -13,5 +13,5 @@ documents = [
     "Salaries are processed on a monthly basis, typically on the last working day. Approved reimbursements are included in subsequent payroll cycles.",    
     "Employees are required to provide a notice period of around 30 days when resigning. In some cases, payment in lieu of notice may be applied.",    
     "The company maintains a strict policy against harassment, discrimination, and misconduct. Violations may result in disciplinary action, including termination.",    
-    "All employees must comply with IT security and acceptable-use policies. Confidential information must not be shared outside authorized systems or personnel."
+    "All employees must comply with IT security and acceptable-use policies. Confidential information must not be shared outside authorized systems or personnel.",
 ]
